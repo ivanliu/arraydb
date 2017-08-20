@@ -7,3 +7,6 @@ B+Tree in relational database software, ArrayDB employs plain arrays in data ind
 Arrays have excellent data locality, read-ahead, and caching properties. The core
 storage and indexing engine is 10X - 50X faster than B+Tree, therefore table join 
 and range search operations are extremely fast.
+
+test..
+
